@@ -1,0 +1,169 @@
+.navbar-brand{
+    font-weight: 700;
+font-size: 26px;
+color: white;
+
+}
+.navbar-brand span{
+	font-family: 'Open Sans', sans-serif;
+	color:  #97253F;
+}
+
+.nav-link{
+    font-weight: 350;
+	font-size: 23px;
+	color: white;
+}
+.color{
+    color:  #97253F;
+}
+.middle {
+    margin-top: 40px;
+    padding: 50px;
+
+}
+.word h1 {
+	color:  #2d3950;
+	font-size: 40px;
+	font-weight: 400;
+}
+.word p {
+	color:  #999999;
+	font-weight: 400;
+    line-height: 32px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+	
+} 
+.wrap {
+    font-weight: 400;
+    
+    padding:10px 50px;
+}
+.wrap  h2 {
+	color: #2d3950;
+    font-size: 22px;
+    padding: 10px;
+	
+}
+
+
+.iconBox{
+	background: linear-gradient(to right,  #97253F 0%, rgba(151, 37, 64, 0.514) 50%, #616060 50%, #999999 100%);
+	height: 100px;
+	margin: 0 auto;
+	width: 100px;
+}
+i {
+    
+	color: black;
+	display: block;
+	font-size: 40px;
+	padding-top: 25px;
+	width: 100%;
+}
+/* ------------------image section----------------------------- */
+.wrap2{
+	background-color: rgba(151, 37, 64, 0.171);
+}
+.imo img{
+	border-radius: 50%;
+}
+.imo a:hover{
+	cursor: pointer;
+	background-color: transparent;
+	opacity: 0.4;
+	transition: ease-in-out 0.2s;
+
+}
+.down{
+	margin-top: 50px;
+	padding-bottom: 50px;
+}
+.word2 h2 {
+	padding-top: 15px;
+	color:  #2d3950;
+	font-size: 45px;
+	font-weight: 600;
+}
+.word2 p {
+	color:  #868686;
+	font-size: 20px;
+	font-weight: 400;
+    line-height: 32px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+	
+} 
+
+/* -----------------------contact section---------------------------- */
+
+.fofo{
+	background-color: #6160608e;
+	padding-top: 20px;
+  }
+  #contact h3,
+  #contact p,
+  #contact li{
+	color: white;
+  }
+  #contact h4{
+	  padding-bottom: 40px;
+	  color: white;
+  }
+  .top{
+	margin-bottom: 5%;
+  }
+  .top h3{
+	padding:  20px 0px;
+	font-size: 50px;
+
+   
+  }
+  .left h3{
+	font-size: 30px;
+	font-weight: 300;
+	padding-bottom: 30px;
+  }
+  
+  .inpu{
+	border-radius: 20px;
+	  width: 100%;
+	  padding: 6px 12px;
+	  margin-bottom:8px;
+	  display: block;
+	  border: none;
+	  background: #f1f1f1;
+  }
+  .inpu:focus {
+	background-color: #ddd;
+	outline: none;
+  }
+  .area{
+	border-radius: 10px;
+	display: block;
+	width: 100%;
+	 padding: 6px 12px;
+   
+  
+  }
+  .btn {
+	background-color: #97253F;
+	color: white;
+	padding: 10px 60px;
+  margin-top: 10px;
+  
+	border: none;
+	cursor: pointer;
+	
+	opacity: 0.9;
+  }
+  
+  .btn:hover {
+	color:#616060;
+	opacity:15;
+  }
+  .ia{
+	  color: white;
+  }
+ 
